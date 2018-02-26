@@ -1,0 +1,242 @@
+*{
+	margin:0;
+	padding:0;
+	
+}
+body,html{
+	height:100%;
+	
+}
+.menu{
+	position:fixed;
+	height:80px;
+	width:100%;
+	text-align:center;
+	line-height:80px;
+	background-color:rgba(39,13,24,0.4);
+	z-index:999;
+	
+}
+
+.menu a{
+	color:white;
+	font-family:arial;
+	font-size:1.2em;
+	text-decoration:none;
+	margin-left:7px;
+	padding:20px ;
+	border-radius:10px;
+	transition:1sn;
+}
+nav a:hover{
+	background-color:white;
+	color:#270d18;
+	
+}
+.sayfa{
+	height:100%;
+	background-color:#bd94db;
+	background-size:cover;
+	background-attachment: fixed; //foto sabit bantüstünden kayıyor
+	z-index:9999;
+	
+	
+}
+.bant{
+	height:60%;
+	background-color: #d5cac5;
+	opacity:0.8;
+	
+	
+}
+#s1{
+	background-image: url("/home/simay/simay/LAMP-www/website2/images/14.jpg");	
+		
+}
+#s1 .filtre{
+	position:absolute;
+	width:100%;
+	height:100%;
+	background-color: black;
+	opacity:0.5;
+	z-index:0;
+}
+#s1 .yazı{
+	position:absolute;
+	color:white;
+	z-index:1;
+	width:100%;
+    height:100%;
+	margin-top:25%;
+	text-align:center;
+	
+	
+}
+#s1 .yazı h1{
+	color:#e6f6f7;
+	font-size:4em;
+	font-family:calibri;
+	padding-bottom:35px;
+	
+	
+}
+#s1 .yazı p{
+	color:	#e6f6f7;
+	font-size:1.5em;
+	font-family:calibri;
+	letter-spacing:4px;
+	
+}
+
+#s3{
+	background-image: url("/home/simay/simay/LAMP-www/website2/images/15.jpg");	
+}
+#s3 .filtre{
+	width:100%;
+	height:100%;
+	background-color: black;
+	opacity:0.5;
+}
+#s4{
+	height:100%;
+	
+	
+}
+#s4 .boxB{
+	width:90%;
+	margin:0 auto 0 auto;
+	
+	
+}
+#s4 .boxB ul{
+	width:100%;
+	height:100%;
+	margin:0;
+	padding:0;
+}
+#s4 .boxB ul li{
+	position: relative;
+	list-style:none;
+	width:30%;
+	margin: 0 5% 0 0;
+	float: left; 
+	background-position: left bottom;
+	background-position:cover;
+	min-height:650px;
+}
+#s4 .boxB ul li:last-child{
+	margin:0 0 0 0;	
+	
+	
+}
+#s4 .boxB ul li .yazı1{
+	position:absolute;
+	bottom:25px;
+	width:90%;
+	height:90%;
+	left:25px;
+	border-radius:100px;
+	background-image:url("/home/simay/simay/LAMP-www/website2/images/16.jpg");
+	background-attachment:fixed;
+	background-size:cover;
+	
+}
+#s4 .boxB ul li .yazı1 p{
+	margin-top:10%;
+	text-transform:uppercase;
+	font-size:15px;
+	font-family:times new roman;
+
+}
+#s4 .boxB ul li .yazı1 h2{
+	margin-top:120%;
+	text-transform:uppercase;
+	font-size:35px;
+	font-family:calibri;
+
+}
+#s4 .boxB ul li .yazı2{
+	position:absolute;
+	bottom:25px;
+	width:90%;
+	height:90%;
+	left:25px;
+	border-radius:100px;
+	background-image:url("/home/simay/simay/LAMP-www/website2/images/17.jpg");
+	background-attachment:fixed;
+	background-size:cover;
+	
+}
+#s4 .boxB ul li .yazı2 p{
+	margin-top:10%;
+	text-transform:uppercase;
+	font-size:15px;
+	font-family:times new roman;
+
+}
+#s4 .boxB ul li .yazı2 h2{
+	margin-top:120%;
+	text-transform:uppercase;
+	font-size:35px;
+	font-family:calibri;
+
+}
+#s4 .boxB ul li .yazı3{
+	position:absolute;
+	bottom:25px;
+	width:90%;
+	height:90%;
+	left:25px;
+	border-radius:100px;
+	background-image:url("/home/simay/simay/LAMP-www/website2/images/19.jpg");
+	background-attachment:fixed;
+	background-size:cover;
+	
+}
+#s4 .boxB ul li .yazı3 p{
+	margin-top:10%;
+	text-transform:uppercase;
+	font-size:15px;
+	font-family:times new roman;
+
+}
+#s4 .boxB ul li .yazı3 h2{
+	margin-top:120%;
+	text-transform:uppercase;
+	font-size:35px;
+	font-family:calibri;
+
+}
+
+#s5{
+	
+	background-image: url("/home/simay/simay/LAMP-www/website2/images/9.jpg");
+
+}
+#s5 .filtre{
+	position:absolute;
+	width:100%;
+	height:100%;
+	background-color: black;
+	opacity:0.5;
+	z-index:0;
+}
+#s5.video{
+	position:absolute;
+	background:white;
+	width:600px;
+	height:450px;
+	transform:translate(50%,35%);
+}
+#s6{
+	height:20%;
+	background-color:#484848;
+	text-align:center;
+	font-family:calibri;
+	font-size:12px;
+	padding-top:40px;
+	border:2px solid grey;
+	//border-radius:25px;
+	
+}
+
