@@ -37,7 +37,7 @@ nav a:hover{
 	height:100%;
 	background-color:#bd94db;
 	background-size:cover;
-	background-attachment: fixed; //foto sabit bantüstünden kayıyor
+	background-attachment: fixed; 
 	z-index:9999;
 	
 	
@@ -50,7 +50,7 @@ nav a:hover{
 	
 }
 #s1{
-	background-image: url("/home/simay/simay/LAMP-www/website2/images/14.jpg");	
+	background-image: url("/home/********/images/14.jpg");	
 		
 }
 #s1 .filtre{
@@ -125,7 +125,7 @@ nav a:hover{
 	height:50%;
 	left:25px;
 	border-radius:100px;
-	background-image:url("/home/simay/simay/LAMP-www/website2/images/16.jpg");
+	background-image:url("/home/**************/images/16.jpg");
 	background-attachment:fixed;
 	background-size:cover;
 	
@@ -152,7 +152,7 @@ nav a:hover{
 	height:50%;
 	left:25px;
 	border-radius:100px;
-	background-image:url("/home/simay/simay/LAMP-www/website2/images/17.jpg");
+	background-image:url("/home/************/17.jpg");
 	background-attachment:fixed;
 	background-size:cover;
 	text-align:center;
@@ -172,7 +172,7 @@ nav a:hover{
 
 }
 #s3{
-	background-image: url("/home/simay/simay/LAMP-www/website2/images/15.jpg");	
+	background-image: url("/home/**************/15.jpg");	
 }
 #s3 .filtre{
 	width:100%;
@@ -187,7 +187,7 @@ nav a:hover{
 	height:90%;
 	left:25px;
 	border-radius:100px;
-	background-image:url("/home/simay/simay/LAMP-www/website2/images/16.jpg");
+	background-image:url("/home/*******************/16.jpg");
 	background-attachment:fixed;
 	background-size:cover;
 	
@@ -232,7 +232,7 @@ nav a:hover{
 	height:90%;
 	left:25px;
 	border-radius:100px;
-	background-image:url("/home/simay/simay/LAMP-www/website2/images/16.jpg");
+	background-image:url("/home/***************/16.jpg");
 	background-attachment:fixed;
 	background-size:cover;
 	
@@ -258,7 +258,7 @@ nav a:hover{
 	height:90%;
 	left:25px;
 	border-radius:100px;
-	background-image:url("/home/simay/simay/LAMP-www/website2/images/17.jpg");
+	background-image:url("/home/*********************/17.jpg");
 	background-attachment:fixed;
 	background-size:cover;
 	
@@ -284,7 +284,7 @@ nav a:hover{
 	height:90%;
 	left:25px;
 	border-radius:100px;
-	background-image:url("/home/simay/simay/LAMP-www/website2/images/19.jpg");
+	background-image:url("/home/*********************/19.jpg");
 	background-attachment:fixed;
 	background-size:cover;
 	
@@ -306,7 +306,7 @@ nav a:hover{
 
 #s5{
 	
-	background-image: url("/home/simay/simay/LAMP-www/website2/images/9.jpg");
+	background-image: url("/home/********************/9.jpg");
 
 }
 #s5 .filtre{
