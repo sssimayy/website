@@ -37,7 +37,7 @@ nav a:hover{
 	height:100%;
 	background-color:#bd94db;
 	background-size:cover;
-	background-attachment: fixed; 
+	background-attachment: fixed; //foto sabit bantüstünden kayıyor
 	z-index:9999;
 	
 	
@@ -50,7 +50,7 @@ nav a:hover{
 	
 }
 #s1{
-	background-image: url("/home/***********/14.jpg");	
+	background-image: url("/home/simay/simay/LAMP-www/website2/images/14.jpg");	
 		
 }
 #s1 .filtre{
@@ -88,8 +88,91 @@ nav a:hover{
 	
 }
 
+#s2 .boxA{
+	width:90%;
+	margin:0 auto 0 auto;
+	
+	
+}
+#s2 .boxA ul{
+	width:100%;
+	height:60%;
+	margin:0;
+	padding:0;
+}
+#s2 .boxA ul li{
+	position: relative;
+	list-style:none;
+	width:30%;
+	//margin: 0 5% 0 0;
+	margin-top:-270px;
+	float: left; 
+	margin-left:25%;
+	background-position: left bottom;
+	background-position:cover;
+	min-height:650px;
+	
+}
+#s2 .boxA ul li:last-child{
+	margin:0 0 0 0;	
+	
+	
+}
+#s2 .boxA ul li .char1{
+	position:absolute;
+	bottom:25px;
+	width:90%;
+	height:50%;
+	left:25px;
+	border-radius:100px;
+	background-image:url("/home/simay/simay/LAMP-www/website2/images/16.jpg");
+	background-attachment:fixed;
+	background-size:cover;
+	
+}
+#s2 .boxA ul li .char1 p{
+	margin-top:10%;
+	text-transform:uppercase;
+	font-size:15px;
+	font-family:times new roman;
+	text-align:center;
+
+}
+#s2 .boxA ul li .char1 h2{
+	margin-top:10%;
+	text-transform:uppercase;
+	font-size:25px;
+	font-family:calibri;
+	text-align:center;
+}
+#s2 .boxA ul li .char2{
+	position:absolute;
+	bottom:25px;
+	width:90%;
+	height:50%;
+	left:25px;
+	border-radius:100px;
+	background-image:url("/home/simay/simay/LAMP-www/website2/images/17.jpg");
+	background-attachment:fixed;
+	background-size:cover;
+	text-align:center;
+}
+#s2 .boxA ul li .char2 p{
+	margin-top:10%;
+	text-transform:uppercase;
+	font-size:15px;
+	font-family:times new roman;
+	text-align:center;
+}
+#s2 .boxA ul li .char2 h2{
+	margin-top:10%;
+	text-transform:uppercase;
+	font-size:25px;
+	font-family:calibri;
+
+}
 #s3{
-	background-image: url("/home/****************/15.jpg");	
+	background-image: url("/home/simay/simay/LAMP-www/website2/images/15.jpg");	
 }
 #s3 .filtre{
 	width:100%;
@@ -97,6 +180,19 @@ nav a:hover{
 	background-color: black;
 	opacity:0.5;
 }
+#s4 .boxB ul li .char1{
+	position:absolute;
+	bottom:25px;
+	width:90%;
+	height:90%;
+	left:25px;
+	border-radius:100px;
+	background-image:url("/home/simay/simay/LAMP-www/website2/images/16.jpg");
+	background-attachment:fixed;
+	background-size:cover;
+	
+}
+
 #s4{
 	height:100%;
 	
@@ -136,7 +232,7 @@ nav a:hover{
 	height:90%;
 	left:25px;
 	border-radius:100px;
-	background-image:url("/home/******************/16.jpg");
+	background-image:url("/home/simay/simay/LAMP-www/website2/images/16.jpg");
 	background-attachment:fixed;
 	background-size:cover;
 	
@@ -162,7 +258,7 @@ nav a:hover{
 	height:90%;
 	left:25px;
 	border-radius:100px;
-	background-image:url("/home/****************/17.jpg");
+	background-image:url("/home/simay/simay/LAMP-www/website2/images/17.jpg");
 	background-attachment:fixed;
 	background-size:cover;
 	
@@ -188,7 +284,7 @@ nav a:hover{
 	height:90%;
 	left:25px;
 	border-radius:100px;
-	background-image:url("/home/***************/19.jpg");
+	background-image:url("/home/simay/simay/LAMP-www/website2/images/19.jpg");
 	background-attachment:fixed;
 	background-size:cover;
 	
@@ -210,7 +306,7 @@ nav a:hover{
 
 #s5{
 	
-	background-image: url("/home/***************/9.jpg");
+	background-image: url("/home/simay/simay/LAMP-www/website2/images/9.jpg");
 
 }
 #s5 .filtre{
